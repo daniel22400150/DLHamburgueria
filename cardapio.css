@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+}
+*{
+    font-family: irish grover;
+}
+header{
+    background: #B67E7E;
+    display: flex;
+}
+.itens{
+    display:flex;
+    justify-content: space-around;
+}
