@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+}
+header{
+    background: #B67E7E;
+}
+h1{
+    margin: 20px 0px 200px;
+    font-family: irish grover;
+}
+p{
+    font-size: 22px;
+    font-family: inknut antiqua;
+    margin-bottom: 140px;
+}
+footer{
+    background: #B67E7E;
+    display: flex;
+    justify-content: end;
+    padding: 70px;
+}
+footer a{
+    text-decoration: none;
+    color: black;
+    font-family: irish grover;
+    font-size: 20px;
+}

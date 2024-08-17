@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+}
+*{
+    font-family: irish grover;
+}
+header{
+    background: #B67E7E;
+}
+h1{
+    margin: 20px 0px 100px;
+}
+main{
+    margin: 0px 0px 220px;
+}
+main div{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 30%;
+}
+#form div input{
+    height: 50%;
+    background:#DBCFCF;
+    border: none;
+    width: 50%;
+}
+footer{
+    background: #B67E7E;
+    display: flex;
+    justify-content: end;
+    padding: 70px;
+}
+footer a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
